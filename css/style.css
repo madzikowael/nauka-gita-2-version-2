@@ -1,3 +1,6 @@
 .song {
     padding-left: 50%;
 }
+.title {
+    text-decoration: underline;
+}
